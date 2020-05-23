@@ -1,0 +1,2 @@
+create table cycling.cyclist_details (id int PRIMARY KEY,
+name text)
